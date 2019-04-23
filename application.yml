@@ -1,20 +1,8 @@
-﻿spring:
-  profiles:
-    active: dev
----
 server:
   port: 8001
 spring:
   profiles: dev    #开发环境
   application:
     name: config-dev
-    
----
-server:
-  port: 8001
-spring:
-  profiles: test    #测试环境
-  application:
-    name: config-test
     
 #请保存为utf-8格式
