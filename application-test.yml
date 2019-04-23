@@ -1,0 +1,6 @@
+server:
+  port: 8001
+spring:
+  profiles: test    #测试环境
+  application:
+    name: config-test
