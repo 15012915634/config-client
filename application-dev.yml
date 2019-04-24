@@ -1,6 +1,6 @@
 server:
   port: 8002
 spring:
-  profiles: test    #开发环境
+  profiles: dev    #开发环境
   application:
     name: config-dev
