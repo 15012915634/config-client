@@ -3,4 +3,4 @@ server:
 spring:
   profiles: dev    #开发环境
   application:
-    name: config-dev
+    name: config-dev1
