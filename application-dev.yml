@@ -4,8 +4,3 @@ spring:
   profiles: dev    #开发环境
   application:
     name: config-dev1
-management:
-  endpoints:
-    web:
-      exposure:
-        include: refresh  #开启监控端点
