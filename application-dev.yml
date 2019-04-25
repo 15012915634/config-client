@@ -4,9 +4,7 @@ spring:
   profiles: dev    #开发环境
   application:
     name: config-dev1
-    
-encrypt: 
-  key: 0e010e17-2529-4581-b907-c8edcfd6be09
+   
 #   datasource: 
 #     username: didi
 #     password: {cipher}dba6505baa81d78bd08799d8d4429de499bd4c2053c05f029e7cfbf143695f5b
