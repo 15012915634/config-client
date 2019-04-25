@@ -1,10 +1,11 @@
 server:
   port: 8002
 spring:
-  profiles: '{cipher}38cdb4a6bf22512e80513e0cb7e9ac0dbdfedaf1856543dd0a261389f1752a03' #开发环境
+  profiles: dev #开发环境
   application:
     name: config-dev1
-# constant:
-#   name: xiangjing
-#   password: {cipher}c11db3ff1ee0a7e3b26642ad7ab3bcf681f8257dc6139270555c8885816ed82a
+constant:
+  name: xiangjing
+  password: '{cipher}38cdb4a6bf22512e80513e0cb7e9ac0dbdfedaf1856543dd0a261389f1752a03'
+
   
