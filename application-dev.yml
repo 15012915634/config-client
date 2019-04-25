@@ -4,7 +4,7 @@ spring:
   profiles: dev    #开发环境
   application:
     name: config-dev1
-  datasource: 
-    username: didi
-    password: {cipher}94eea45f4ff88ddcb36aeb88d6f2a860c09286275f2621d6122302875255d807
+#   datasource: 
+#     username: didi
+#     password: {cipher}94eea45f4ff88ddcb36aeb88d6f2a860c09286275f2621d6122302875255d807
   
