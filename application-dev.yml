@@ -1,7 +1,7 @@
 server:
   port: 8002
 spring:
-  profiles: {cipher}e10960b766eef3393381ef57d0b42f642b5fbb8beeb5db644acc3c6049ca25cb    #开发环境
+  profiles: {cipher}3c70a809bfa24ab88bcb5e1df51cb9e4dd4b8fec88301eb7a18177f1769c849ae9c9f29400c920480be2c99406ae28c7 #开发环境
   application:
     name: config-dev1
 # constant:
