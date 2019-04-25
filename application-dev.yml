@@ -6,5 +6,5 @@ spring:
     name: config-dev1
 contant:
   name: xiangjing
-  password: {cipher}94eea45f4ff88ddcb36aeb88d6f2a860c09286275f2621d6122302875255d807
+  password: {cipher}c11db3ff1ee0a7e3b26642ad7ab3bcf681f8257dc6139270555c8885816ed82a
   
