@@ -4,7 +4,7 @@ spring:
   profiles: dev    #开发环境
   application:
     name: config-dev1
-contant:
+constant:
   name: xiangjing
   password: {cipher}c11db3ff1ee0a7e3b26642ad7ab3bcf681f8257dc6139270555c8885816ed82a
   
