@@ -5,4 +5,11 @@ spring:
   application:
     name: config-dev
     
+constant:
+  name: xiangjing
+  password: '{cipher}AgDR3qY85GjUZf0v+7sEpW5pzN9PAqHlDZQsk/rjlzTfJ74DVTvv0QBk5EtdevgzbhPHB3zj0s40mGWCym47IOhcx3hp75zDrvpDl2P8EzBdSKMxP78yYmTajO+2h/RMsyokPYmbmRv9fzvbpv4tFI/hrWT3s5OfH5DUrDjEcl1LJlDMxNI2lqxwybQZEBE7zYtOSVlyEPHB7LI7aZLpdO2rZAl1/oDPsud9nrfiErBITMnHet6WTOHNXilFLsEpL5AGQZH7mK6yfZE5RdUGL0vIJ7fp0170/WR3toY15qanfUhnP9fK9Lygiyc9IyW6Mk000EKJXwGlzAiyg7Qcb83PDHFAS+mHP5QNzP6zAABcrhM5eMEgMRsp1hOezIO+4tiVxMBrZNQPIo1uHnqg2YRDNWj4/BGAYXUJ8Ft6N5kXJ7/GoWiQnXD1HuECEjhOTZTw4lQyR61NFvvE2Q9TP1uWQdwv5woafUN+i91AfQFBivO9ZJZPpOmFyvszEm9Xh6gaxlyQbuPV6NI2uwyKZvLE5iKTOR58MOSERUziRnuVNFDA2yYaBv/9NvgVGeGQkR1wlq14tWaOnArSkPFBdVbW+KCYBJ/nIrCly6ItlVBp8Hj270v9jC8Tur7iGg6aFn7f6TK/zkYmG/LhwSByOHee3hKZ/Y9F9nADmMwpS9gQBtKUuJHcU0hKw92TqzxhF8+vsr5RzDHbt1ZXYg8GKVOQ'
+
+  
+
+    
 #请保存为utf-8格式
