@@ -1,6 +1,17 @@
-server:
-  port: 1001
 spring:
-  profiles: dev #开发环境
+  profiles: dev
   application:
     name: eureka-server-dev
+  security:
+    user:
+      name: admin
+      password: admin
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+        defaultZone: http://admin:admin@${eureka.instance.hostname}:${server.port}/eureka/
