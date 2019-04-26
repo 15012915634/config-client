@@ -1,0 +1,7 @@
+    
+server:
+  port: 1001
+spring:
+  profiles: test #开发环境
+  application:
+    name: eureka-server-test
